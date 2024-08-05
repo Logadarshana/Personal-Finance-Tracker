@@ -1,0 +1,32 @@
+date,amount,category,description
+01-07-2024,125.65,Income,Salary for entire July month
+02-07-2024,-20.00,Expense,Groceries
+03-07-2024,-15.75,Expense,Transport
+04-07-2024,50.00,Income,Freelance work
+05-07-2024,-30.00,Expense,Dining out
+06-07-2024,10.00,Income,Gift
+07-07-2024,-5.00,Expense,Coffee
+08-07-2024,200.00,Income,Bonus
+09-07-2024,-45.00,Expense,Gasoline
+10-07-2024,75.00,Income,Investment returns
+11-07-2024,-100.00,Expense,Utility bills
+12-07-2024,150.00,Income,Selling old furniture
+13-07-2024,-50.00,Expense,Entertainment
+14-07-2024,200.00,Income,Freelance work
+15-07-2024,-60.00,Expense,Shopping
+16-07-2024,-25.00,Expense,Subscription services
+17-07-2024,300.00,Income,Part-time job
+18-07-2024,-40.00,Expense,Medical expenses
+19-07-2024,50.00,Income	Refund
+20-07-2024,-20.00,Expense,Groceries
+21-07-2024,400.00,Income,Project completion
+22-07-2024,-70.00,Expense,Home maintenance
+23-07-2024,25.00,Income,Dividend
+24-07-2024,-30.00,Expense,Dining out
+25-07-2024,100.00,Income,Part-time tutoring
+26-07-2024,-15.00,Expense,Transport
+27-07-2024,80.00,Income,Online sales
+28-07-2024,-25.00,Expense,Coffee
+29-07-2024,60.00,Income,Freelance work
+30-07-2024,-50.00,Expense,Entertainment
+31-07-2024,150.00,Income,Investment returns
